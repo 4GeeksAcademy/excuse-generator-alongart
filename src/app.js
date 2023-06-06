@@ -75,9 +75,3 @@ function excuseGenerator() {
   ].join(" "));
   return sentence;
 }
-
-// htmlexcuse.innerHTML = excuseGenerator();
-
-// let htmlexcuse = document.getElementById("randomizer").innerHTML;
-
-// document.querySelector("#randomizer");
